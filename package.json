@@ -48,7 +48,7 @@
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-terser": "^0.4.0",
     "@rollup/plugin-typescript": "^11.0.0",
-    "@tsconfig/svelte": "^3.0.0",
+    "@tsconfig/svelte": "^4.0.1",
     "@types/adm-zip": "^0.5.0",
     "@types/lodash": "^4.14.191",
     "@types/node": "^18.11.18",
@@ -73,10 +73,10 @@
     "rollup-plugin-dev": "^2.0.4",
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-postcss": "^4.0.2",
-    "rollup-plugin-svelte": "^7.1.0",
+    "rollup-plugin-svelte": "^7.1.5",
     "svelte-check": "^3.8.6",
     "svelte-preprocess": "^5.1.4",
-    "typescript": "^4.9.4"
+    "typescript": "^5.0.0"
   },
   "keywords": [
     "Figma",
